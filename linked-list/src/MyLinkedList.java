@@ -1,4 +1,3 @@
- package com.company;
 
 public class MyLinkedList {
     private static class Node {
